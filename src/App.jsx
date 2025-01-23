@@ -4,6 +4,8 @@ import Contact from './components/contact'
 import Header from './components/header'
 import Hero from './components/hero'
 import Services from './components/service'
+import Spaces from './components/spaces'
+Spaces
 
 
 function App() {
@@ -17,6 +19,7 @@ function App() {
       
       <Hero />
       <Services />
+      <Spaces />
       <Contact />
       
     </main>
